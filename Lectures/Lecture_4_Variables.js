@@ -1,7 +1,7 @@
 const accountId = 144553;
 let accountEmail = "hitest@google.com";
 var accountPassword = "12345";
-accountCity = "Jaipur"; // by default it makes it let
+accountCity = "Jaipur"; // by default it makes the data type let
 
 let accountState;
 // accountId = 2 -- not allowed
